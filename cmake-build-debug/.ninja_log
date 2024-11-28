@@ -1,0 +1,10 @@
+# ninja log v6
+16	195	7545328179541293	CMakeFiles/battleship.dir/src/solver.cpp.obj	5b6b172e84775692
+12	250	7545328179502645	CMakeFiles/battleship.dir/src/guesser.cpp.obj	b995cb9d048d6ec
+3	455	7545328179410018	CMakeFiles/battleship.dir/src/main.cpp.obj	14c26261f2c4273a
+8	730	7545328179456876	CMakeFiles/battleship.dir/src/board.cpp.obj	f61ab8ac7a5287bb
+730	796	7545328186685355	battleship.exe	4f6b33f2b3641a26
+24	202	7545328765080021	CMakeFiles/battleship.dir/src/guesser.cpp.obj	b995cb9d048d6ec
+202	274	7545328766859198	battleship.exe	4f6b33f2b3641a26
+6	328	7545329011252754	CMakeFiles/battleship.dir/src/main.cpp.obj	14c26261f2c4273a
+337	428	7545329014564923	battleship.exe	4f6b33f2b3641a26

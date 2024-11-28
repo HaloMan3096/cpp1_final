@@ -25,7 +25,7 @@ ReturnType Guesser::check_coordinates(size_t x, size_t y, Board &board) {
         if (adjX > 0 && adjX < rows &&
             adjY > 0 && adjY < cols) {
             if ((*grid)[adjX]->at(adjY) == 1) {
-                return ReturnType::miss;
+                return ReturnType::near_miss;
             }
         }
     }

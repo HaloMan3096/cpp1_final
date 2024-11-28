@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/logan/CLionProjects/C-Class-Work/cpp1_final_real/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wextra -Werror -O2 -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\battleship.dir\\src\\main.cpp.obj -c C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\main.cpp",
+  "file": "C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\main.cpp",
+  "output": "CMakeFiles\\battleship.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/logan/CLionProjects/C-Class-Work/cpp1_final_real/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wextra -Werror -O2 -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\battleship.dir\\src\\board.cpp.obj -c C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\board.cpp",
+  "file": "C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\board.cpp",
+  "output": "CMakeFiles\\battleship.dir\\src\\board.cpp.obj"
+},
+{
+  "directory": "C:/Users/logan/CLionProjects/C-Class-Work/cpp1_final_real/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wextra -Werror -O2 -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\battleship.dir\\src\\guesser.cpp.obj -c C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\guesser.cpp",
+  "file": "C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\guesser.cpp",
+  "output": "CMakeFiles\\battleship.dir\\src\\guesser.cpp.obj"
+},
+{
+  "directory": "C:/Users/logan/CLionProjects/C-Class-Work/cpp1_final_real/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wextra -Werror -O2 -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\battleship.dir\\src\\solver.cpp.obj -c C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\solver.cpp",
+  "file": "C:\\Users\\logan\\CLionProjects\\C-Class-Work\\cpp1_final_real\\src\\solver.cpp",
+  "output": "CMakeFiles\\battleship.dir\\src\\solver.cpp.obj"
+}
+]
